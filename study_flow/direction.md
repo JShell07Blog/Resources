@@ -40,7 +40,12 @@
 4. DSP技术：Digital Signal Process，DSP处理器通过硬件实现数字信号处理算法。
 
 
-# 4.嵌入式书籍推荐： 
+# 4.借鉴别人的总结  
+<http://blog.csdn.net/chenlycly/article/details/41785777>  
+<http://blog.csdn.net/yun_jianfei/article/details/70139682>  
+<http://www.cnblogs.com/orangebook/p/3617995.html>
+
+# 5.嵌入式书籍推荐： 
 
 C语言基础  
 -《Advanced Programming in the UNIX Environment，2nd Edition》（APUE）  
