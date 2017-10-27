@@ -1,12 +1,6 @@
 个人职业规划
 -
 
-#1.总方向
-- 从技术向业务过渡
-- 从程序员向技术管理发展
-- 单方面向技术发展
-
-
 ---
 注：同时兼顾三个方面  
 1. 职业  
@@ -15,10 +9,17 @@
 
 ***== 一定要有计划 ==***  
 - 未来 （有一个明确的持续输出目标）  
-- 近期 （帮助具体到月、周的计划）
+- 近期 （帮助具体到月、周的计划）  
+
+***心有所持，方能甲第。***
 ---
 
-**程序员->架构师->Team Leader（Project Manager）->技术总监**
+# 1.总方向
+- 从技术向业务过渡
+- 从程序员向技术管理发展
+- 单方面向技术发展
+
+**程序员->架构师->Team Leader（Project Manager）->技术总监**  
 部分原文：
 >     
 发展感受
@@ -27,19 +28,19 @@
 [原文请点击](https://www.baidu.com/link?url=7e6UsF3Cn1SNN25LKeIoGPfITNGBi-p9IPDx4DB6d3T5DyCBI_0BoQbLbIkoMahs&wd=&eqid=f2b7bb5d0000e4880000000559f2dda0
 )
 
-#2.目前看到的方向
+# 2.目前看到的方向
 - 物联网
 - 移动互联网
 - 云计算
 
-#3.值得深入学习内容
+# 3.值得深入学习内容
 1. **数字图像压缩技术：主要是应掌握MPEG、mp3等编解码算法和技术。**
 2. **通信协议及编程技术：TCP/IP协议、802.11，Bluetooth，GPRS、GSM、CDMA等。** 
 3. 网络与信息安全技术：如加密技术，数字证书CA等。 
 4. DSP技术：Digital Signal Process，DSP处理器通过硬件实现数字信号处理算法。
 
 
-#4.嵌入式书籍推荐： 
+# 4.嵌入式书籍推荐： 
 
 C语言基础  
 -《Advanced Programming in the UNIX Environment，2nd Edition》（APUE）  
