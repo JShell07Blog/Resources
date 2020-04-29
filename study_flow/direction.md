@@ -31,7 +31,7 @@
 # 2.目前看到的方向
 - 物联网
 - 移动互联网
-- 云计算
+- 云计算(与虚拟机KVM 等有关)
 
 # 3.值得深入学习内容
 1. **数字图像压缩技术：主要是应掌握MPEG、mp3等编解码算法和技术。**
@@ -41,51 +41,11 @@
 
 
 # 4.借鉴别人的总结  
-<http://blog.csdn.net/chenlycly/article/details/41785777>  
-<http://blog.csdn.net/yun_jianfei/article/details/70139682>  
-<http://www.cnblogs.com/orangebook/p/3617995.html>
+[总结过去10年的程序员生涯](http://blog.csdn.net/chenlycly/article/details/41785777)
+[一个30岁程序员的对于中年危机的思考和应对](http://blog.csdn.net/yun_jianfei/article/details/70139682)
+[Linux方向职业分析](http://www.cnblogs.com/orangebook/p/3617995.html)
 
-# 5.嵌入式书籍推荐： 
-
-C语言基础  
--《Advanced Programming in the UNIX Environment，2nd Edition》（APUE）  
--《嵌入式Linux应用程序开发详解》
-
-Linux内核  
--《深入理解Linux内核》（第三版）  
--《Linux内核源代码情景分析》毛德操 胡希明着 
-
-研发方向  
-- UNIX Network Programming》（UNP）  
-- 《TCP/IP详解》  
-- 《Linux内核编程》  
-- 《Linux设备驱动开发》（LDD） 
-
-理论基础  
-- 《算法导论》  
-- 《数据结构（C语言版）》  
-- 《计算机组织与体系结构性能分析》  
-- 《深入理解计算机系统》【美】Randal E. Bryant David O”Hallaron著  
-- 《操作系统：精髓与设计原理》  
-- 《编译原理》  
-- 《数据通信与计算机网络》 
-- 《数据压缩原理与应用》 
-
-C语言书籍推荐  
-- The C programming language 《Ｃ程序设计语言》   
-- Pointers on C 《Ｃ和指针》   
-- C traps and pitfalls 《Ｃ陷阱与缺陷》  
-- Expert C Lanuage 《专家Ｃ编程》   
-- Writing Clean Code   --Microsoft Techiniques for Developing Bug-free C Programs 《编程精粹–Microsoft 编写优质无错Ｃ程序秘诀》   
-- Programming Embedded Systems in C and C++ 《嵌入式系统编程》   
--《C语言嵌入式系统编程修炼》  
--《高质量C++/C编程指南》林锐 
-
-<http://blog.csdn.net/dearsq/article/details/49685445>
-
-
-
-# 6.关于嵌入式
+# 5.关于嵌入式
 首先，关于对人才的需求，真的像楼主看到的一样，从底层硬件到嵌入式系统软件再到顶层的应用软件，IT行业对上述人才的需求是倒金字塔状的，对应用软件的需求是最多的，因为越到顶层越直接与用户需求相关，发挥空间越大。
 
 第二，关于大企业和名企。对于一个在校生来说，大企业或者名企应该都是曝光率较高的企业，什么行业曝光率高？当然是消费电子和互联网，当然这两个行业规模是很大的，但依然有很多其他行业的领先企业对嵌入式软件工程师有着较大的需求。所以应届生找工作要放开眼光，了解各个行业。
