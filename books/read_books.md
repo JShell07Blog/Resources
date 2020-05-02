@@ -86,23 +86,23 @@
 - 《人人都有好工作:IT行业求职面试必读》 
 
 ## Reference
-`个人BLOG`
-[如何学好C语言](https://coolshell.cn/articles/4102.html)
-[如何学好C++语言](https://coolshell.cn/articles/4119.html)
-[四火的叨唠-资源链接](https://www.raychase.net/resources)
-[程序员必读书单](https://www.cnblogs.com/figure9/p/developer-reading-list.html)
+`个人BLOG`  
+[如何学好C语言](https://coolshell.cn/articles/4102.html)  
+[如何学好C++语言](https://coolshell.cn/articles/4119.html)  
+[四火的叨唠-资源链接](https://www.raychase.net/resources)  
+[程序员必读书单](https://www.cnblogs.com/figure9/p/developer-reading-list.html)  
 
-`电商`
-[豆瓣编程书单](https://book.douban.com/tag/%E7%BC%96%E7%A8%8B)
-[JD 编程书籍](https://channel.jd.com/1713-3287.html)
+`电商`  
+[豆瓣编程书单](https://book.douban.com/tag/%E7%BC%96%E7%A8%8B)  
+[JD 编程书籍](https://channel.jd.com/1713-3287.html)  
 
-`O'reilly丛书`
-[Oreilly 官网](http://www.oreilly.com.cn/index.php?func=completelist)
-[Oreilly 豆瓣书单](https://book.douban.com/tag/O'Reilly?start=0&type=T)
+`O'reilly丛书`  
+[Oreilly 官网](http://www.oreilly.com.cn/index.php?func=completelist)  
+[Oreilly 豆瓣书单](https://book.douban.com/tag/O'Reilly?start=0&type=T)  
 
-`图灵丛书`
-[图灵 官网](http://www.ituring.com.cn/book?tab=book&sort=hot)
-[图灵 豆瓣书单](https://book.douban.com/series/660?page=1)
+`图灵丛书`  
+[图灵 官网](http://www.ituring.com.cn/book?tab=book&sort=hot)  
+[图灵 豆瓣书单](https://book.douban.com/series/660?page=1)  
 
-`video`
+`video`  
 [雷霄骅 video csdn](http://blog.csdn.net/leixiaohua1020)
