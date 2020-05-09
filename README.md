@@ -1,2 +1,2 @@
 # Resources
-some split resources
+some split resources.
