@@ -25,6 +25,7 @@
 [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)  
 [C++必读书单](http://coredumper.cn/index.php/2017/05/21/c_plus_plus_booklist/)   
 [C++必读书籍推荐](http://bestcbooks.com/recommended-cpp-books/)   
+[有哪些值得推荐的 C++ 经典书籍？](https://www.zhihu.com/question/20066655)  
 
 常见问题解决方法与经典错误 
 - 《Exceptional C++》 
